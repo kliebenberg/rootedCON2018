@@ -1,5 +1,5 @@
 
-"Ataques SDR a Smart TVs: URL y channel injection", Pedro Cabrera. 1-3 Marzo, Madrid
+# "Ataques SDR a Smart TVs: URL y channel injection", Pedro Cabrera. 1-3 Marzo, Madrid
 
 *** Contenido del repositorio:
 
